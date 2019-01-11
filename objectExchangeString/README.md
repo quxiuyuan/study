@@ -1,4 +1,4 @@
-# jackson-databind jar
+# objectMapper jackson-databind jar
 <dependency>
   <groupId>com.fasterxml.jackson.core</groupId>
   <artifactId>jackson-databind</artifactId>
