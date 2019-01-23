@@ -1,4 +1,7 @@
-# objectMapper jackson-databind jar
+# objectMapper & JsonGenerator
+java对象->json对象，json数组格式
+json对象, 数组格式-> java对象
+
 <dependency>
   <groupId>com.fasterxml.jackson.core</groupId>
   <artifactId>jackson-databind</artifactId>
